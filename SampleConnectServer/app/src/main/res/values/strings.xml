@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sample ConnectServer</string>
+
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="save">Save</string>
+
+    <string name="contact">chain.chaiyaphat@gmail.com</string>
+    <string name="create_new_one">Create new one</string>
+
+    <string name="set_your_profile_picture">Set your profile picture</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="tel">Tel</string>
+
+    <string name="member">Member</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+
+</resources>
